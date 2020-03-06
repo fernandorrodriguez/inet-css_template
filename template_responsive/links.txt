@@ -1,0 +1,40 @@
+https://es.khanacademy.org/computing/computer-programming
+
+http://vaalentin.github.io/2015/
+
+https://threejs.org/
+
+https://material.io/design/motion/choreography.html#transformation
+https://material.io/design/environment/elevation.html#default-elevations
+https://material.io/design/environment/light-shadows.html#shadows
+
+https://phaser.io/
+http://www.axeon.fr/CLIENT/AXEON_SOFTWARE/PARIS_Bastille/
+https://playcanvas.com/
+
+https://tympanus.net/codrops/category/playground/
+
+notas
+-----
+
+form
+    -->fieldset (secciones con contexto)
+        -->legend(titulo de un fieldset)
+        -->button (igual que input type = "button")
+        -->label(titulo de un input, se linean con for y el id del input, lo cual permite que clickear el label y activar el input)
+        -->input (campo de linea simple)
+            -->text
+            -->button  
+            -->email
+            -->checkbox
+            -->password
+            -->number
+            -->color
+            -->URL
+            -->date
+            -->time
+            -->datetime
+            -->reset
+        -->select (menu desplegable)
+            -->option (opcion de menu)
+        -->textarea
